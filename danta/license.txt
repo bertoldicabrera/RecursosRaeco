@@ -1,0 +1,11 @@
+Model Information:
+* title:	untitled
+* source:	https://sketchfab.com/3d-models/untitled-e8199588857d42d0ac0f051d26366697
+* author:	ingdearco (https://sketchfab.com/ingdearco)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "untitled" (https://sketchfab.com/3d-models/untitled-e8199588857d42d0ac0f051d26366697) by ingdearco (https://sketchfab.com/ingdearco) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
