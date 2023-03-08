@@ -1,0 +1,11 @@
+Model Information:
+* title:	Racoon
+* source:	https://sketchfab.com/3d-models/racoon-1290ea254c6b4fd8b510f38fc9ffb9f5
+* author:	jakub.hutyra (https://sketchfab.com/jakub.hutyra)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Racoon" (https://sketchfab.com/3d-models/racoon-1290ea254c6b4fd8b510f38fc9ffb9f5) by jakub.hutyra (https://sketchfab.com/jakub.hutyra) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
