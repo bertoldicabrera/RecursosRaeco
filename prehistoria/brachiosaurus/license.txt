@@ -1,0 +1,11 @@
+Model Information:
+* title:	Brachiosaurus
+* source:	https://sketchfab.com/3d-models/brachiosaurus-d6bd40b04c7f44cca12c177b9430347c
+* author:	savounited (https://sketchfab.com/savounited)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Brachiosaurus" (https://sketchfab.com/3d-models/brachiosaurus-d6bd40b04c7f44cca12c177b9430347c) by savounited (https://sketchfab.com/savounited) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
