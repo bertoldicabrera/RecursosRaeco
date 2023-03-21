@@ -1,0 +1,11 @@
+Model Information:
+* title:	Parasaurolophus
+* source:	https://sketchfab.com/3d-models/parasaurolophus-718b172f931d4445b8fec3e9638414d0
+* author:	crystalbluebox (https://sketchfab.com/crystalbluebox)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Parasaurolophus" (https://sketchfab.com/3d-models/parasaurolophus-718b172f931d4445b8fec3e9638414d0) by crystalbluebox (https://sketchfab.com/crystalbluebox) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
